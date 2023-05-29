@@ -1,0 +1,3 @@
+Name=Amisha Ayub Shaikh
+add=Ahmednagar
+Qualification=BE(IT)
